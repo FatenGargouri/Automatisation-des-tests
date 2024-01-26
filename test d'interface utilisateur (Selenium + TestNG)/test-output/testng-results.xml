@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-15T18:16:43 CET" name="Default suite" finished-at="2024-01-15T18:17:14 CET" duration-ms="30539">
+    <groups>
+    </groups>
+    <test started-at="2024-01-15T18:16:43 CET" name="Default test" finished-at="2024-01-15T18:17:14 CET" duration-ms="30539">
+      <class name="test_selenium_testng.TestPageAccueil">
+        <test-method is-config="true" signature="configuration()[pri:0, instance:test_selenium_testng.TestPageAccueil@54bff557]" started-at="2024-01-15T18:16:43 CET" name="configuration" finished-at="2024-01-15T18:16:50 CET" duration-ms="6772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configuration -->
+        <test-method signature="testerPageAcceuil()[pri:0, instance:test_selenium_testng.TestPageAccueil@54bff557]" started-at="2024-01-15T18:16:50 CET" name="testerPageAcceuil" finished-at="2024-01-15T18:17:13 CET" duration-ms="23283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testerPageAcceuil -->
+        <test-method is-config="true" signature="fermerNavigateur()[pri:0, instance:test_selenium_testng.TestPageAccueil@54bff557]" started-at="2024-01-15T18:17:13 CET" name="fermerNavigateur" finished-at="2024-01-15T18:17:14 CET" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fermerNavigateur -->
+      </class> <!-- test_selenium_testng.TestPageAccueil -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
